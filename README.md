@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Phapale</h1>
-<h3 align="center">A Machine Learning and Web Dev enthusiast</h3>
+<h3 align="center">A Machine Learning and Software Engineering enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamphapale&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamphapale" /> </p>
 
