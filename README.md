@@ -121,8 +121,11 @@
 </p>
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamphapale&show_icons=true&locale=en&layout=compact" alt="shubhamphapale" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=shubhamphapale&show_icons=true&locale=en" alt="shubhamphapale" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamphapale&show_icons=true&locale=en&layout=compact" alt="shubhamphapale" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamphapale&show_icons=true&locale=en" alt="shubhamphapale" />
 </p>
 
 <p align="center">
