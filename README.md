@@ -16,14 +16,14 @@
 - ⚡ Fun fact **I do Competitive Programming**
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shubhamphapale" alt="shubhamphapale" />
+  <a href="https://instagram.com/shubhamphapale.25" target="blank">
+    <img src="https://img.shields.io/badge/follow-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/shubhamphapale.25" target="blank">
-    <img src="https://img.shields.io/badge/follow-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shubhamphapale" alt="shubhamphapale" />
   </a>
 </p>
 
