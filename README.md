@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shubhamphapale" alt="shubhamphapale" />
+    <img src="https://github-profile-trophy.vercel.app/?username=shubhamphapale&theme=onedark" alt="shubhamphapale" />
   </a>
 </p>
 
