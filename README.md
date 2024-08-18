@@ -5,9 +5,20 @@
   <img src="https://komarev.com/ghpvc/?username=shubhamphapale&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamphapale" />
 </p>
 
-<p align="center">
-  <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
-</p>
+<table>
+  <tr>
+    <td>
+      - 🌱 I’m currently learning **TensorFlow**<br>
+      - 👨‍💻 All of my projects are available at [https://github.com/ShubhamPhapale](https://github.com/ShubhamPhapale)<br>
+      - 💬 Ask me about **Machine Learning**<br>
+      - 📫 How to reach me **shubhamphapale10@gmail.com**<br>
+      - ⚡ Fun fact **I do Competitive Programming**
+    </td>
+    <td>
+      <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -20,16 +31,6 @@
     <img src="https://img.shields.io/badge/follow-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-
-- 🌱 I’m currently learning **TensorFlow**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ShubhamPhapale](https://github.com/ShubhamPhapale)
-
-- 💬 Ask me about **Machine Learning**
-
-- 📫 How to reach me **shubhamphapale10@gmail.com**
-
-- ⚡ Fun fact **I do Competitive Programming**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -104,30 +105,28 @@
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original-wordmark.svg" alt="Scikit-learn" width="40" height="40"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
   </a>
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamphapale&show_icons=true&locale=en&layout=compact" alt="shubhamphapale" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamphapale&show_icons=true&locale=en&layout=compact" alt="shubhamphapale" />
 </p>
 
-<p align="center">
+<p>
+  &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamphapale&show_icons=true&locale=en" alt="shubhamphapale" />
 </p>
 
-<p align="center">
+<p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamphapale&" alt="shubhamphapale" />
 </p>
