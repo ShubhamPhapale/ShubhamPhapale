@@ -120,5 +120,14 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamphapale&show_icons=true&locale=en&layout=compact" alt="shubhamphapale" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamphapale&show_icons=true&locale=en&layout=compact" alt="shubhamphapale" />
+</p>
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamphapale&show_icons=true&locale=en" alt="shubhamphapale" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamphapale&" alt="shubhamphapale" />
+</p>
