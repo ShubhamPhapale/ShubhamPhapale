@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I do Competitive Programming**
 
-<p align="center">
+<p align="left">
   <a href="https://instagram.com/shubhamphapale.25" target="blank">
     <img src="https://img.shields.io/badge/follow-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
