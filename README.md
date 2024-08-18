@@ -21,12 +21,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shubhamphapale&theme=onedark&column=9" alt="shubhamphapale" />
-  </a>
-</p>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/shubham-phapale-24344a227" target="blank">
@@ -117,3 +111,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamphapale&show_icons=true&locale=en&layout=compact" alt="shubhamphapale" style="max-height: 150px;"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shubhamphapale&theme=onedark&column=9" alt="shubhamphapale" />
+  </a>
+</p>
