@@ -106,7 +106,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/scikit_learn/scikit_learn-icon.svg" alt="Scikit-learn" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo.svg/1280px-Scikit_learn_logo.svg.png" alt="Scikit-learn" width="40" height="40"/>
   </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
