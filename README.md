@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" />
+  <a href="https://instagram.com/shubhamphapale.25" target="blank">
+    <img src="https://img.shields.io/badge/follow-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
