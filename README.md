@@ -1,24 +1,19 @@
 <h1 align="center">Hi 👋, I'm Shubham Phapale</h1>
 <h3 align="center">A Machine Learning and Software Engineering Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhamphapale&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamphapale" />
-</p>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
-<table>
-  <tr>
-    <td>
-      - 🌱 I’m currently learning **TensorFlow**<br>
-      - 👨‍💻 All of my projects are available at [https://github.com/ShubhamPhapale](https://github.com/ShubhamPhapale)<br>
-      - 💬 Ask me about **Machine Learning**<br>
-      - 📫 How to reach me **shubhamphapale10@gmail.com**<br>
-      - ⚡ Fun fact **I do Competitive Programming**
-    </td>
-    <td>
-      <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
-    </td>
-  </tr>
-</table>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamphapale&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamphapale" /> </p>
+
+- 🌱 I’m currently learning **TensorFlow**
+
+- 👨‍💻 All of my projects are available at [https://github.com/ShubhamPhapale](https://github.com/ShubhamPhapale)
+
+- 💬 Ask me about **Machine Learning**
+
+- 📫 How to reach me **shubhamphapale10@gmail.com**
+
+- ⚡ Fun fact **I do Competitive Programming**
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
