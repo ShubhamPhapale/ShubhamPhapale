@@ -114,7 +114,6 @@
 </p>
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shubhamphapale&show_icons=true&locale=en&layout=compact" alt="shubhamphapale" style="max-height: 150px;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamphapale&show_icons=true&locale=en&layout=compact" alt="shubhamphapale" style="max-height: 150px;"/>
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamphapale&layout=compact" alt="shubhamphapale" style="max-height: 150px;"/>
 </p>
-
