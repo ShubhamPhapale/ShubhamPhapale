@@ -118,7 +118,5 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamphapale&show_icons=true&locale=en" alt="shubhamphapale" style="max-height: 150px;"/>
-  &nbsp; &nbsp;
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamphapale&" alt="shubhamphapale" style="max-height: 150px;"/>
 </p>
