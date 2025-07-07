@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **CyberSecurity**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ShubhamPhapale](https://github.com/ShubhamPhapale)
+- 👨‍💻 All of my projects are available at [https://github.com/ShubhamPhapale](https://github.com/ShubhamPhapale?tab=repositories)
 
 - 💬 Ask me about **Artificial Intelligence**
 
